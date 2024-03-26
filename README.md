@@ -7,7 +7,7 @@
 - !pip install seaborn
 - !pip install scikit-learn
 
-### Passo a Passo de um Projeto de Ciência de Dados 🎲
+### Passo a Passo de um Projeto de Ciência de Dados #️⃣
 
 - Passo 1: Entendimento do Desafio
 - Passo 2: Entendimento da Área/Empresa
